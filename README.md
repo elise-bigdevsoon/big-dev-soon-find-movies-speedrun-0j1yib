@@ -1,6 +1,6 @@
 # Find Movies Project
 
-Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
+Hello to [BigDevSoon](https://bigdevsoon.me/) 👋k
 
 Create a visually appealing application that allows users to search for movies and TV series by title and view their details. Challenge yourself to incorporate a "Featured Today" and a "Premieres and announcements" section. Integration with a third-party API adds an extra level of complexity to the project.
 
